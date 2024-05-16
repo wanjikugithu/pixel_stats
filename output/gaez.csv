@@ -1,0 +1,185 @@
+Theme id,Theme acronym,Theme name,Crop acronym,Crop name
+3,res02,Agro-climatic Potential Yield,alfa,Alfalfa
+3,res02,Agro-climatic Potential Yield,bana,Banana
+3,res02,Agro-climatic Potential Yield,barl,Barley
+3,res02,Agro-climatic Potential Yield,bckw,Buckwheat
+3,res02,Agro-climatic Potential Yield,bean,Phaseolus bean
+3,res02,Agro-climatic Potential Yield,bhsg,Biomass highland sorghum
+3,res02,Agro-climatic Potential Yield,blsg,Biomass lowland sorghum
+3,res02,Agro-climatic Potential Yield,bsrg,Biomass sorghum
+3,res02,Agro-climatic Potential Yield,btsg,Biomass temperate sorghum
+3,res02,Agro-climatic Potential Yield,cabb,Cabbage
+3,res02,Agro-climatic Potential Yield,carr,Carrot
+3,res02,Agro-climatic Potential Yield,casv,Cassava
+3,res02,Agro-climatic Potential Yield,chck,Chickpea
+3,res02,Agro-climatic Potential Yield,citr,Citrus
+3,res02,Agro-climatic Potential Yield,cocc,Cocoa cumoun
+3,res02,Agro-climatic Potential Yield,coch,Cocoa hybrid
+3,res02,Agro-climatic Potential Yield,cocn,Coconut
+3,res02,Agro-climatic Potential Yield,coco,Cocoa
+3,res02,Agro-climatic Potential Yield,cofa,Coffee arabica
+3,res02,Agro-climatic Potential Yield,coff,Coffee
+3,res02,Agro-climatic Potential Yield,cofr,Coffee robusta
+3,res02,Agro-climatic Potential Yield,cott,Cotton
+3,res02,Agro-climatic Potential Yield,cowp,Cowpea
+3,res02,Agro-climatic Potential Yield,cyam,Cocoyam
+3,res02,Agro-climatic Potential Yield,dpea,Dry pea
+3,res02,Agro-climatic Potential Yield,flax,Flax
+3,res02,Agro-climatic Potential Yield,fmlt,Foxtail millet
+3,res02,Agro-climatic Potential Yield,gram,Gram
+3,res02,Agro-climatic Potential Yield,gras,Grass
+3,res02,Agro-climatic Potential Yield,grlg,Pasture legumes
+3,res02,Agro-climatic Potential Yield,grnd,Groundnut
+3,res02,Agro-climatic Potential Yield,gyam,Greater yam
+3,res02,Agro-climatic Potential Yield,hmze,Highland maize
+3,res02,Agro-climatic Potential Yield,hsrg,Highland sorghum
+3,res02,Agro-climatic Potential Yield,jatr,Jatropha
+3,res02,Agro-climatic Potential Yield,lmze,Lowland maize
+3,res02,Agro-climatic Potential Yield,lsrg,Lowland sorghum
+3,res02,Agro-climatic Potential Yield,maiz,Maize
+3,res02,Agro-climatic Potential Yield,misc,Miscanthus
+3,res02,Agro-climatic Potential Yield,mllt,Millet
+3,res02,Agro-climatic Potential Yield,mzsi,Silage maize
+3,res02,Agro-climatic Potential Yield,napr,Napier grass
+3,res02,Agro-climatic Potential Yield,oats,Oat
+3,res02,Agro-climatic Potential Yield,oilp,Oil palm
+3,res02,Agro-climatic Potential Yield,oliv,Olive
+3,res02,Agro-climatic Potential Yield,onio,Onion
+3,res02,Agro-climatic Potential Yield,pigp,Pigeonpea
+3,res02,Agro-climatic Potential Yield,pmlt,Pearl millet
+3,res02,Agro-climatic Potential Yield,prub,Para rubber
+3,res02,Agro-climatic Potential Yield,rape,Rapeseed
+3,res02,Agro-climatic Potential Yield,rcgr,Reed canary grass
+3,res02,Agro-climatic Potential Yield,ricd,Dryland rice
+3,res02,Agro-climatic Potential Yield,ricw,Wetland rice
+3,res02,Agro-climatic Potential Yield,ryes,Rye
+3,res02,Agro-climatic Potential Yield,sbrl,Spring barley
+3,res02,Agro-climatic Potential Yield,sorg,Sorghum
+3,res02,Agro-climatic Potential Yield,soyb,Soybean
+3,res02,Agro-climatic Potential Yield,spot,Sweet potato
+3,res02,Agro-climatic Potential Yield,srye,Spring rye
+3,res02,Agro-climatic Potential Yield,sugb,Sugar beet
+3,res02,Agro-climatic Potential Yield,sugc,Sugar cane
+3,res02,Agro-climatic Potential Yield,sunf,Sunflower
+3,res02,Agro-climatic Potential Yield,swgr,Switchgrass
+3,res02,Agro-climatic Potential Yield,swhe,Spring wheat
+3,res02,Agro-climatic Potential Yield,teas,Tea
+3,res02,Agro-climatic Potential Yield,tmze,Temperate maize
+3,res02,Agro-climatic Potential Yield,toba,Tobacco
+3,res02,Agro-climatic Potential Yield,toma,Tomato
+3,res02,Agro-climatic Potential Yield,tsrg,Temperate sorghum
+3,res02,Agro-climatic Potential Yield,wbrl,Winter barley
+3,res02,Agro-climatic Potential Yield,whea,Wheat
+3,res02,Agro-climatic Potential Yield,wpot,White potato
+3,res02,Agro-climatic Potential Yield,wrye,Winter rye
+3,res02,Agro-climatic Potential Yield,wwhe,Winter wheat
+3,res02,Agro-climatic Potential Yield,wyam,White yam
+3,res02,Agro-climatic Potential Yield,yams,Yam
+3,res02,Agro-climatic Potential Yield,yyam,Yellow yam
+4,res05,Suitability and Attainable Yield,alf,Alfalfa
+4,res05,Suitability and Attainable Yield,ban,Banana
+4,res05,Suitability and Attainable Yield,bck,Buckwheat
+4,res05,Suitability and Attainable Yield,brl,Barley
+4,res05,Suitability and Attainable Yield,bsg,Biomass sorghum
+4,res05,Suitability and Attainable Yield,cab,Cabbage
+4,res05,Suitability and Attainable Yield,car,Carrot
+4,res05,Suitability and Attainable Yield,chk,Chickpea
+4,res05,Suitability and Attainable Yield,cit,Citrus
+4,res05,Suitability and Attainable Yield,coc,Cocoa
+4,res05,Suitability and Attainable Yield,cof,Coffee
+4,res05,Suitability and Attainable Yield,con,Coconut
+4,res05,Suitability and Attainable Yield,cot,Cotton
+4,res05,Suitability and Attainable Yield,cow,Cowpea
+4,res05,Suitability and Attainable Yield,csv,Cassava
+4,res05,Suitability and Attainable Yield,flx,Flax
+4,res05,Suitability and Attainable Yield,fml,Foxtail millet
+4,res05,Suitability and Attainable Yield,grd,Groundnut
+4,res05,Suitability and Attainable Yield,grm,Gram
+4,res05,Suitability and Attainable Yield,jtr,Jatropha
+4,res05,Suitability and Attainable Yield,mis,Miscanthus
+4,res05,Suitability and Attainable Yield,mze,Maize
+4,res05,Suitability and Attainable Yield,nap,Napier grass
+4,res05,Suitability and Attainable Yield,oat,Oat
+4,res05,Suitability and Attainable Yield,olp,Oil palm
+4,res05,Suitability and Attainable Yield,olv,Olive
+4,res05,Suitability and Attainable Yield,oni,Onion
+4,res05,Suitability and Attainable Yield,pea,Dry pea
+4,res05,Suitability and Attainable Yield,phb,Phaseolus bean
+4,res05,Suitability and Attainable Yield,pig,Pigeonpea
+4,res05,Suitability and Attainable Yield,pml,Pearl millet
+4,res05,Suitability and Attainable Yield,rcd,Dryland rice
+4,res05,Suitability and Attainable Yield,rcg,Reed canary grass
+4,res05,Suitability and Attainable Yield,rcw,Wetland rice
+4,res05,Suitability and Attainable Yield,rsd,Rapeseed
+4,res05,Suitability and Attainable Yield,rub,Rubber
+4,res05,Suitability and Attainable Yield,rye,Rye
+4,res05,Suitability and Attainable Yield,sfl,Sunflower
+4,res05,Suitability and Attainable Yield,soy,Soybean
+4,res05,Suitability and Attainable Yield,spo,Sweet potato
+4,res05,Suitability and Attainable Yield,srg,Sorghum
+4,res05,Suitability and Attainable Yield,sub,Sugar beet
+4,res05,Suitability and Attainable Yield,suc,Sugar cane
+4,res05,Suitability and Attainable Yield,swg,Switchgrass
+4,res05,Suitability and Attainable Yield,tea,Tea
+4,res05,Suitability and Attainable Yield,tob,Tobacco
+4,res05,Suitability and Attainable Yield,tom,Tomato
+4,res05,Suitability and Attainable Yield,whe,Wheat
+4,res05,Suitability and Attainable Yield,wpo,White potato
+4,res05,Suitability and Attainable Yield,yam,Yam
+5,res06,Actual Yields and Production,oil,Oil seeds
+5,res06,Actual Yields and Production,cer,Cereals
+5,res06,Actual Yields and Production,rts,Root crops
+5,res06,Actual Yields and Production,all,Main crops
+5,res06,Actual Yields and Production,sfl,Sunflower
+5,res06,Actual Yields and Production,oce,Other cereals
+5,res06,Actual Yields and Production,mze,Maize
+5,res06,Actual Yields and Production,sub,Sugar beet
+5,res06,Actual Yields and Production,veg,Vegetables
+5,res06,Actual Yields and Production,soy,Soybean
+5,res06,Actual Yields and Production,rt1,Potato and sweet potato
+5,res06,Actual Yields and Production,cc2,Stimulants
+5,res06,Actual Yields and Production,rt2,Cassava
+5,res06,Actual Yields and Production,brl,Barley
+5,res06,Actual Yields and Production,ban,Banana
+5,res06,Actual Yields and Production,rcw,Wetland rice
+5,res06,Actual Yields and Production,rt3,Yams and other roots
+5,res06,Actual Yields and Production,srg,Sorghum
+5,res06,Actual Yields and Production,pls,Pulses
+5,res06,Actual Yields and Production,olp,Oil palm
+5,res06,Actual Yields and Production,grd,Groundnut
+5,res06,Actual Yields and Production,rsd,Rapeseed
+5,res06,Actual Yields and Production,nes,Rest of crops
+5,res06,Actual Yields and Production,frt,Fruits and nuts
+5,res06,Actual Yields and Production,mlt,Millet
+5,res06,Actual Yields and Production,suc,Sugar cane
+5,res06,Actual Yields and Production,fdd,Fodder crops
+5,res06,Actual Yields and Production,whe,Wheat
+5,res06,Actual Yields and Production,olv,Olive
+5,res06,Actual Yields and Production,cot,Cotton
+5,res06,Actual Yields and Production,tob,Tobacco
+6,res07,Yield and Production Gaps,grt,Root crops
+6,res07,Yield and Production Gaps,goi,Oil crops
+6,res07,Yield and Production Gaps,gap,All crops
+6,res07,Yield and Production Gaps,gce,Cereals
+6,res07,Yield and Production Gaps,rcw,Wetland rice
+6,res07,Yield and Production Gaps,whe,Wheat
+6,res07,Yield and Production Gaps,mze,Maize
+6,res07,Yield and Production Gaps,cot,Cotton
+6,res07,Yield and Production Gaps,grd,Groundnut
+6,res07,Yield and Production Gaps,ban,Banana
+6,res07,Yield and Production Gaps,mlt,Millet
+6,res07,Yield and Production Gaps,pls,Pulses
+6,res07,Yield and Production Gaps,rt2,Cassava
+6,res07,Yield and Production Gaps,rt1,Potato and sweet potato
+6,res07,Yield and Production Gaps,olv,Olive
+6,res07,Yield and Production Gaps,suc,Sugar cane
+6,res07,Yield and Production Gaps,rsd,Rapeseed
+6,res07,Yield and Production Gaps,olp,Oil palm
+6,res07,Yield and Production Gaps,rt3,Yams and other roots
+6,res07,Yield and Production Gaps,srg,Sorghum
+6,res07,Yield and Production Gaps,sfl,Sunflower
+6,res07,Yield and Production Gaps,brl,Barley
+6,res07,Yield and Production Gaps,tob,Tobacco
+6,res07,Yield and Production Gaps,oce,Other cereals
+6,res07,Yield and Production Gaps,sub,Sugar beet
+6,res07,Yield and Production Gaps,soy,Soybean

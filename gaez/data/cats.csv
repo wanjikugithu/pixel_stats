@@ -1,0 +1,17 @@
+,cats,file_description
+1,suHg0,Suitability index under gravity irrigation conditions and high input level and without CO2 fertilization 
+2,suHg,Suitability index under gravity irrigation conditions and high input level and with CO2 fertilization
+3,suHi0,Suitability index range under irrigation conditions and high input level and without CO2 fertilization 
+4,suHi,Suitability index under irrigation conditions and high input level and with CO2 fertilization
+5,suHr0,Suitability index under rainfed conditions and high input level and without CO2 fertilization
+6,suHr,Suitability index under rainfed conditions and high input level and with CO2 fertilization 
+7,suHs0,Suitability index under sprinkler irrigation conditions and high input level and without CO2 fertilization 
+8,suHs,Suitability index under sprinkler irrigation conditions and high input level and with CO2 fertilization 
+9,suLa,Suitability index under rainfed all phases conditions and low input level and with CO2 fertilization 
+10,suLg0,Suitability index under gravity irrigation conditions and low input level and without CO2 fertilization 
+11,suLg,Suitability index under gravity irrigation conditions and low input level and with CO2 fertilization 
+12,suLr0,Suitability index under rainfed conditions and low input level and without CO2 fertilization 
+13,suLr,Suitability index under rainfed conditions and low input level and with CO2 fertilization 
+14,suHa,Suitability index under rainfed all phases conditions and high input level and with CO2 fertilization 
+15,suHd,Suitability index under drip irrigation conditions and high input level and with CO2 fertilization
+16,suHd0,Suitability index under drip irrigation conditions and high input level and without CO2 fertilization

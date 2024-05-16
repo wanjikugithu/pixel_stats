@@ -1,0 +1,43 @@
+id,fullname,partial_name,ecocrop_name,name
+1,wheat,whea,"wheat, common","wheat, common"
+2,rice,rice,"upland rice, japonica or indica",
+3,maize,maiz,maize,maize
+4,barley,barl,barley,barley
+5,pearl millet,pmil,pearl millet,pearl millet
+6,small millet,smil,,
+7,sorghum,sorg,medium/low  altitude,
+8,other cereals,ocer,,NA
+9,potato,pota,potato,potato
+10,sweet potato,swpo,sweet potato,sweet potato
+11,yams,yams,white yam/ greater yam,
+12,cassava,cass,cassava,cassava
+13,other roots,orts,NA,NA
+14,bean,bean,"Bean, Common","Bean, Common"
+15,chickpea,chic,Chick pea,Chick pea
+16,cowpea,cowp,Cowpea,Cowpea
+17,pigeonpea,pige,Pigeon Pea,Pigeon Pea
+18,lentil,lent,Lentil,Lentil
+19,other pulses,opul,NA,NA
+20,soybean,soyb,Soyabean,Soyabean
+21,groundnut,grou,Groundnut,Groundnut
+22,coconut,cnut,Coconut,Coconut
+23,oilpalm,oilp,African oil palm,
+24,sunflower,sunf,Sunflower,Sunflower
+25,rapeseed,rape,2 varieties,
+26,sesameseed,sesa,Sesame seed,Sesame seed
+27,other oil crops,ooil,NA,NA
+28,sugarcane,sugc,Sugarcane - 2 varieties,
+29,sugarbeet,sugb,Sugar beet,Sugar beet
+30,cotton,cott,variety,
+31,other fibre crops ,ofib,NA,NA
+32,arabica coffee,acof,coffee arabica,coffee arabica
+33,robusta coffee,rcof,coffee robusta,coffee robusta
+34,cocoa,coco,Cacao,Cacao
+35,tea,teas,tea,tea
+36,tobacco,toba,tobacco,tobacco
+37,banana,bana,banana - specify variety,
+38,plantain,plnt,plantain bananas,plantain bananas
+39,tropical fruit,trof,NA,NA
+40,temperate fruit,temf,NA,NA
+41,vegetables,vege,NA,NA
+42,rest of crops,rest,NA,NA
